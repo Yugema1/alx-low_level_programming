@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+/**
+ * main - Entry Point.
+ * Return: Always (0) Success
+ */
+int main(void)
+{
+	char y;
+
+	for (y = 'a'y = 'z'; y++)
+		putchar(letter);
+
+	for (y = 'A'; y <= 'Z'; y++)
+		putchar(y);
+
+	putchar('\n');
+
+	return (0);
+}
